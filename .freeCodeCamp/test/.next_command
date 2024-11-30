@@ -471,3 +471,4 @@ echo $VAR
 [[ $var =~ \?$ ]]
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
+./fortune.sh
