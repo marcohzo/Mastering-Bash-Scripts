@@ -484,3 +484,4 @@ help
 help type
 tpye echo
 type echo
+type read
