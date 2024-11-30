@@ -485,3 +485,4 @@ help type
 tpye echo
 type echo
 type read
+type if
