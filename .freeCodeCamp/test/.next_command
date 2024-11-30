@@ -482,3 +482,5 @@ clear
 ./five.sh
 help
 help type
+tpye echo
+type echo
